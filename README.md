@@ -2,7 +2,8 @@ https://github.com/Jaeyoung-Lim/avoidance
 <br>위 링크를 통해 PX4 Avoidance를 SITL 환경에서 시험준비 설정
 
 
-<strong>스테레오 비젼카메라와 SITL을 이용한 Obstacle avoidance시뮬레이션 수행 과정</strong> 
+<br>
+<br><strong>스테레오 비젼카메라와 SITL을 이용한 Obstacle avoidance시뮬레이션 수행 과정</strong> 
  
  1.
  $ roslaunch local_planner local_planner_stereo.launch
