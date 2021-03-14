@@ -2,7 +2,6 @@ https://github.com/Jaeyoung-Lim/avoidance
 <br>위 링크를 통해 PX4 Avoidance를 SITL 환경에서 시험준비 설정
 
 
-<br>
 <br><strong>스테레오 비젼카메라와 SITL을 이용한 Obstacle avoidance시뮬레이션 수행 과정</strong> <br>
 
  
@@ -15,3 +14,5 @@ https://github.com/Jaeyoung-Lim/avoidance
  
  
 3. qgroundcontrol 을 실행한 후 미션맵에서 waypoint 설정
+
+[참조링크]: https://swiftcam.tistory.com/274
